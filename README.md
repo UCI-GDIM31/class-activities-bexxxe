@@ -6,7 +6,7 @@ Hello world!
 ### W2
 r, g, b are floats becuase they are on a 0.0 to 1 scale.
 Bounce is a int because it is a whole number and not a fraction like float.
-In Step 8 I dind'nt add float and was stuggling on how to make it work but I learned from a TA that the float defines the brightness as a fraction and makes it work.
+In Step 8, I didn't add a float and was struggling on how to make it work, but I learned from a TA that the float defines the brightness as a fraction and makes it work.
 
 ## Open-Source Assets
 ### W1
