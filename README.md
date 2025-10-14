@@ -9,7 +9,7 @@ Bounce is a int because it is a whole number and not a fraction like float.
 In Step 8, I didn't add a float and was struggling on how to make it work, but I learned from a TA that the float defines the brightness as a fraction and makes it work.
 
 ### W3
-Question 2. We input one integer for friendship, and the other is a boolean for the secret, which depends on the relationship status. We use strings to output a response.
+Question 2. We input one integer for friendship, and the other is a boolean for the secret, which depends on the relationship status. We use strings to output a response. Classes are like a toolbox, and the components are the tools.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
