@@ -13,7 +13,7 @@ Question 2. We input one integer for friendship, and the other is a boolean for 
 make the balls brighter each time they bounce
 
 ### W4
-Table 9: In line 5 "[SerializeField] private float _moveSpeed = 1.0f;" is the line asking to be descriped. Its a member variable of cat movement, its setting how fast the cat can move while also making it so that we can tune the movement speeds in unity. Line 22, "float translation = Input.GetAxis("Vertical") * _moveSpeed * Time.deltaTime;" is a float, we are getting input from the player then translates the object based on the movement and moving it based on frames. Line 25 is " transform.Translate(0, 0, translation);" this calls the component to move based on the value of translation.
+Table 9: In line 5 "[SerializeField] private float _moveSpeed = 1.0f;" is the line asking to be descriped. Its a member variable of cat movement, its setting how fast the cat can move while also making it so that we can tune the movement speeds in unity. Line 22, "float translation = Input.GetAxis("Vertical") * _moveSpeed * Time.deltaTime;" is a float, we are getting input from the player then translates the object based on the movement and moving it based on frames. Line 25 is " transform.Translate(0, 0, translation);" this calls the component to move based on the value of translation. For the colider activity I did everything as stated on the canvas, I put the rigidbody on the Cat and Ball only because there were supossed to interact and colide. I didnt add it on the goal and checked the "is trigger" because the ball was supposed to go through the goal not be stopped by it.
 
 ## Open-Source Assets
 ### W1
