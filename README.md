@@ -20,6 +20,7 @@ Question: Why are there Vector3, 2, and 4? Answer: They are for the different di
 
 ## W6
 https://docs.google.com/document/d/1pVQF8OAxJPUS-FvcqORq1R6zN29-Wx7oRm__EkzzC70/edit?usp=sharing
+Im working on UI
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
