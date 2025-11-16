@@ -18,7 +18,8 @@ Table 9: In line 5 "[SerializeField] private float _moveSpeed = 1.0f;" is the li
 ## W5
 Question: Why are there Vector3, 2, and 4? Answer: They are for the different dimension planes. Like 2D and 3D spaces. Deer pathing: Make the deer walk to the mushroom using the Navmesh. Its a monobehaviour and the components are transform, and we also need to make it move as soon as the game starts, so we use Start(). Then we need to set the destination. 
 
-## W6
+## W7
+
 https://docs.google.com/document/d/1pVQF8OAxJPUS-FvcqORq1R6zN29-Wx7oRm__EkzzC70/edit?usp=sharing
 Im working on UI
 ## Open-Source Assets
